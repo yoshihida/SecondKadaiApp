@@ -12,6 +12,7 @@
 		72FBE9ED1C9C4DA50084A2BA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 72FBE9EB1C9C4DA50084A2BA /* Main.storyboard */; };
 		72FBE9EF1C9C4DA50084A2BA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 72FBE9EE1C9C4DA50084A2BA /* Assets.xcassets */; };
 		72FBE9F21C9C4DA50084A2BA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 72FBE9F01C9C4DA50084A2BA /* LaunchScreen.storyboard */; };
+		72FBE9FA1C9C4E1E0084A2BA /* ResultVIewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72FBE9F91C9C4E1E0084A2BA /* ResultVIewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		72FBE9EE1C9C4DA50084A2BA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		72FBE9F11C9C4DA50084A2BA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		72FBE9F31C9C4DA50084A2BA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		72FBE9F91C9C4E1E0084A2BA /* ResultVIewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResultVIewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				72FBE9E71C9C4DA50084A2BA /* AppDelegate.swift */,
 				72FBE9E91C9C4DA50084A2BA /* ViewController.swift */,
 				72FBE9EB1C9C4DA50084A2BA /* Main.storyboard */,
+				72FBE9F91C9C4E1E0084A2BA /* ResultVIewController.swift */,
 				72FBE9EE1C9C4DA50084A2BA /* Assets.xcassets */,
 				72FBE9F01C9C4DA50084A2BA /* LaunchScreen.storyboard */,
 				72FBE9F31C9C4DA50084A2BA /* Info.plist */,
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				72FBE9EA1C9C4DA50084A2BA /* ViewController.swift in Sources */,
+				72FBE9FA1C9C4E1E0084A2BA /* ResultVIewController.swift in Sources */,
 				72FBE9E81C9C4DA50084A2BA /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
